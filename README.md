@@ -1,2 +1,3 @@
 # hanavia-yoansyah.github.io
 ...
+newbie to learn js 
